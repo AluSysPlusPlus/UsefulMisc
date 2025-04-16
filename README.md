@@ -1,0 +1,2 @@
+# UsefulMisc
+Useful methods miscellaneous
