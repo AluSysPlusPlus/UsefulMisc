@@ -1,0 +1,14 @@
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\bin\Debug\net9.0\MultiPortServerSim.exe
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\bin\Debug\net9.0\MultiPortServerSim.deps.json
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\bin\Debug\net9.0\MultiPortServerSim.runtimeconfig.json
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\bin\Debug\net9.0\MultiPortServerSim.dll
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\bin\Debug\net9.0\MultiPortServerSim.pdb
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\obj\Debug\net9.0\MultiPortServerSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\obj\Debug\net9.0\MultiPortServerSim.AssemblyInfoInputs.cache
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\obj\Debug\net9.0\MultiPortServerSim.AssemblyInfo.cs
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\obj\Debug\net9.0\MultiPortServerSim.csproj.CoreCompileInputs.cache
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\obj\Debug\net9.0\MultiPortServerSim.dll
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\obj\Debug\net9.0\refint\MultiPortServerSim.dll
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\obj\Debug\net9.0\MultiPortServerSim.pdb
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\obj\Debug\net9.0\MultiPortServerSim.genruntimeconfig.cache
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\MultiPortServerSim\obj\Debug\net9.0\ref\MultiPortServerSim.dll

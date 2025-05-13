@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\serverconnection_test\main.cpp(29,16): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\serverconnection_test\main.cpp(113,16): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+  serverconnection_test.vcxproj -> C:\Users\ALUSHI\Documents\GitHub\SERVER_SIMULATOR\serverconnection_test\x64\Debug\serverconnection_test.exe
